@@ -1,0 +1,66 @@
+/* *{
+    padding: 0;   
+    margin: 0;
+    box-sizing: border-box;
+   }
+
+   #outer{  
+      margin: 10px auto;
+    width: 500px;
+    height: 400px;
+    background-color: aquamarine;
+}
+
+   #inner{
+    margin: 50px auto;
+       width: 420px;
+       height: 200px; 
+       background: rgb(209, 42, 42); 
+      border: 1px solid rgb(255, 213, 0);
+     
+   }
+
+   
+   #inner >div{
+      float: left;
+   
+    margin:  15px auto;
+       width: 50px;
+       height: 50px;
+       background-color: aliceblue;
+       
+
+   } */
+
+   /* #test{
+      width: 500px;
+      height: 300px;
+      border: 1px solid green;
+      background-color: rgb(124, 180, 161);
+   }
+label{
+   font-size: 1.6rem;
+}
+   form{
+      background: #eee;
+      padding: 5px;
+   }
+   form input{
+      padding: .5rem;
+      width: 25%;
+   }
+   select{
+      width: 25%;
+      padding: 1rem;
+   }
+    option{
+      width: 25%;
+      padding: 2rem;
+   } */
+
+
+   #one{
+      width: 200px;
+      height: 300px;
+      background-color: aquamarine;
+   }
